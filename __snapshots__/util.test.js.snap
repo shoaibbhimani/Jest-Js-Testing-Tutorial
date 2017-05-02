@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Array CRUD Test Cases Add Item to a List 1`] = `
+Array [
+  "React",
+  "Mobx",
+  "Redux",
+]
+`;
+
+exports[`Array CRUD Test Cases Remove Item from a List 1`] = `
+Array [
+  "React",
+]
+`;
+
+exports[`Array CRUD Test Cases Update Item from a List 1`] = `
+Array [
+  "Redux",
+  "Mobx",
+]
+`;
